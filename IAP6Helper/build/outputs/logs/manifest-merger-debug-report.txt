@@ -1,0 +1,69 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:1:1-38:12
+	package
+		ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:5:5-32
+	xmlns:android
+		ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:2:5-63
+	android:versionCode
+		ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:4:5-36
+application
+ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:8:5-32:19
+activity#com.samsung.android.sdk.iap.lib.activity.DialogActivity
+ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:11:9-14:61
+	android:configChanges
+		ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:14:13-59
+	android:theme
+		ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:13:13-47
+	android:name
+		ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:12:13-83
+activity#com.samsung.android.sdk.iap.lib.activity.CheckPackageActivity
+ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:16:9-19:61
+	android:configChanges
+		ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:19:13-59
+	android:theme
+		ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:18:13-47
+	android:name
+		ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:17:13-89
+activity#com.samsung.android.sdk.iap.lib.activity.AccountActivity
+ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:21:9-24:61
+	android:configChanges
+		ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:24:13-59
+	android:theme
+		ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:23:13-53
+	android:name
+		ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:22:13-84
+activity#com.samsung.android.sdk.iap.lib.activity.PaymentActivity
+ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:26:9-29:149
+	android:configChanges
+		ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:29:13-147
+	android:theme
+		ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:28:13-47
+	android:name
+		ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:27:13-84
+queries
+ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:34:5-36:15
+package#com.sec.android.app.samsungapps
+ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:35:9-67
+	android:name
+		ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:35:18-64
+uses-sdk
+INJECTED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml
+INJECTED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml
+INJECTED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml
+INJECTED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml

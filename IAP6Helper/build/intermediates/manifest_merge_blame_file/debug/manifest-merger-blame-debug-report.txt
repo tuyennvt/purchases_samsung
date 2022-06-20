@@ -1,0 +1,62 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.samsung.android.sdk.iap.lib"
+4    android:versionCode="601000004"
+5    android:versionName="6.1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="18"
+8-->/Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->/Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml
+10
+11    <queries>
+11-->/Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:34:5-36:15
+12        <package android:name="com.sec.android.app.samsungapps" />
+12-->/Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:35:9-67
+12-->/Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:35:18-64
+13    </queries>
+14
+15    <!-- version code [Major/Minor/Bug fix release/Build number ] : x xx xxx xxx -->
+16    <application>
+16-->/Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:8:5-32:19
+17
+18        <!-- IAP 라이브러리 내 Activity 선언 시작 -->
+19
+20        <activity
+20-->/Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:11:9-14:61
+21            android:name="com.samsung.android.sdk.iap.lib.activity.DialogActivity"
+21-->/Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:12:13-83
+22            android:configChanges="orientation|screenSize"
+22-->/Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:14:13-59
+23            android:theme="@style/Theme.Empty" />
+23-->/Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:13:13-47
+24        <activity
+24-->/Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:16:9-19:61
+25            android:name="com.samsung.android.sdk.iap.lib.activity.CheckPackageActivity"
+25-->/Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:17:13-89
+26            android:configChanges="orientation|screenSize"
+26-->/Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:19:13-59
+27            android:theme="@style/Theme.Empty" />
+27-->/Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:18:13-47
+28        <activity
+28-->/Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:21:9-24:61
+29            android:name="com.samsung.android.sdk.iap.lib.activity.AccountActivity"
+29-->/Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:22:13-84
+30            android:configChanges="orientation|screenSize"
+30-->/Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:24:13-59
+31            android:theme="@style/Theme.Transparent" />
+31-->/Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:23:13-53
+32        <activity
+32-->/Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:26:9-29:149
+33            android:name="com.samsung.android.sdk.iap.lib.activity.PaymentActivity"
+33-->/Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:27:13-84
+34            android:configChanges="orientation|screenSize|smallestScreenSize|screenLayout|keyboard|keyboardHidden|locale|uiMode|fontScale|density"
+34-->/Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:29:13-147
+35            android:theme="@style/Theme.Empty" />
+35-->/Users/admin/Project/purchases_samsung/IAP6Helper/src/main/AndroidManifest.xml:28:13-47
+36
+37        <!-- IAP 라이브러리 내 Activity 선언 끝 -->
+38    </application>
+39
+40</manifest>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dream_ph_body_contact_p1sscustomer_servicep2ss_for_more_information_n_nerror_code_c_p3ss">تېخىمۇ كۆپ مەلۇمات ئۈچۈن %1$sخېرىدار مۇلازىمەتلىرى%2$s بىلەن ئالاقىلىشىڭ.\n\nخاتالىق كودى: %3$s</string>
+    <string name="dream_ph_body_to_complete_this_purchase_you_need_to_enable_the_galaxy_store_in_settings">‏بۇ سودىلىقنى تاماملىماق ئۈچۈن، تەڭشەك تە Galaxy Store نى ئاكتىپلىشىڭىز كېرەك.</string>
+    <string name="dream_ph_body_to_complete_this_purchase_you_need_to_update_the_galaxy_store">‏بۇ سودىلىقنى تاماملىماق ئۈچۈن، Galaxy Store نى يېڭىلاندۇرۇشىڭىز كېرەك.</string>
+    <string name="dream_ph_pheader_couldnt_complete_purchase">سودىلىق تاماملانمىدى</string>
+    <string name="ids_com_body_error_code_c">خاتالىق كودى:</string>
+</resources>
